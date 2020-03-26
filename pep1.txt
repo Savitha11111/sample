@@ -1,0 +1,5 @@
+ GIT INITIALIZATION STEP 
+GIT BASH
+1:  git init
+2:  git remote add origin "#https link"
+3:  git pull origin master
