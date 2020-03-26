@@ -3,4 +3,5 @@ branch :
  2 git checkout [branchname]
 master branch:
  3 git merge [branchname]
+ 4 git rebase [branchname] // directly updates the local repository
 
