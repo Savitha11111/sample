@@ -1,0 +1,4 @@
+TO ADD DATA TO LOCAL REPOSITORY :
+1: git add [filename]
+2: git status
+3: git commit -m "enter meaningful message"
