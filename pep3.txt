@@ -1,0 +1,3 @@
+branch :
+ 1 git branch [branchname]    eg git branch firstbranch
+ 2 git checkout [branchname]

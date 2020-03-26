@@ -2,3 +2,7 @@ TO ADD DATA TO LOCAL REPOSITORY :
 1: git add [filename]
 2: git status
 3: git commit -m "enter meaningful message"
+4: for multiple files to save :
+    git add -A
+    git commit -a -m "message"
+5: git log 
