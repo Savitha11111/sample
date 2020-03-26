@@ -5,4 +5,4 @@ TO ADD DATA TO LOCAL REPOSITORY :
 4: for multiple files to save :
     git add -A
     git commit -a -m "message"
-5: git log 
+5: git log  //to check status 

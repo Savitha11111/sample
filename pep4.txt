@@ -1,4 +1,4 @@
-to upload to repository github
+To upload to repository github
 ssh -T git@github.com
 ssh-keygen
 cat [your public key has been saved in copy the folder and paste]
